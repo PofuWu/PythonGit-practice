@@ -4,3 +4,4 @@ new line is issue3
 test3
 test4
 test1
+1
